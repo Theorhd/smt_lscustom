@@ -14,6 +14,7 @@ A highly optimized and feature-rich vehicle modification script based on the cla
 ## Requirements
 
 - [es_extended](https://github.com/esx-framework/es_extended)
+- [esx_lscustom](https://github.com/Theorhd/esx_lscustom) - Place this modified version of esx_lscustom in your esx_addons folder. smt_lscustom is based on this esx_lscustom to work.
 
 ## Installation
 
